@@ -12,7 +12,7 @@ using StudentEnrollment.Data;
 namespace StudentEnrollment.Data.Migrations
 {
     [DbContext(typeof(StudentEnrollmentDbContext))]
-    [Migration("20230909143208_initialMigration")]
+    [Migration("20230913081008_initialMigration")]
     partial class initialMigration
     {
         /// <inheritdoc />
